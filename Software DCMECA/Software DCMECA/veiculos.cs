@@ -28,5 +28,12 @@ namespace Software_DCMECA
             Variavel.Show();
             this.Hide();
         }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            Form2 Variavel = new Form2();
+            Variavel.Show();
+            this.Hide();
+        }
     }
 }

@@ -16,5 +16,12 @@ namespace Software_DCMECA
         {
             InitializeComponent();
         }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            veiculos Variavel = new veiculos();
+            Variavel.Show();
+            this.Hide();
+        }
     }
 }

@@ -104,3 +104,51 @@ C:\Users\Catarina\Documents\PAP github\Software DCMECA\Software DCMECA\obj\Debug
 C:\Users\Catarina\Documents\PAP github\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.exe
 C:\Users\Catarina\Documents\PAP github\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.pdb
 C:\Users\Catarina\Documents\PAP\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.serviço.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Software DCMECA.exe.config
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Software DCMECA.exe
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Software DCMECA.pdb
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Google.Protobuf.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\MySql.Data.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Buffers.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Memory.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\ZstdSharp.dll
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Google.Protobuf.pdb
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Google.Protobuf.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\MySql.Data.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Buffers.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Memory.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.csproj.AssemblyReference.cache
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.clientes.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.novoveiculo.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.serviço.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.stock.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.veiculos.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.Login.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.Form2.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software_DCMECA.Properties.Resources.resources
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.csproj.GenerateResource.cache
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.csproj.CoreCompileInputs.cache
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.csproj.CopyComplete
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.exe
+C:\Users\Catarina\Documents\PAP-TGPSI\Software DCMECA\Software DCMECA\obj\Debug\Software DCMECA.pdb
