@@ -1,1 +1,1 @@
-Isto é para um exercicio da ficha 5
+O meu projeto d PAP consiste num software para uma oficina mecanica 
